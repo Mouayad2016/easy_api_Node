@@ -1,6 +1,6 @@
 # Node_easy_API
 
-A simple API to perform crud (add, get, delete) A Nodejs project.
+A simple API to perform crud (add, get, delete) built withe Node.js.
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ the task without showing what you can do it in the best way. Also keep in mind t
 the recruitment process must be able to explain and justify the solution you submitted.
 
 ### Features of this project.
-- Node js API. 
+- Node.js API. 
 - Framework Express.js.
 - DB in this application is a Map().
 - Protocol HTTP
