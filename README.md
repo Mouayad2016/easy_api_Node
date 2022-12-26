@@ -27,6 +27,8 @@ Use these links, to test my app.
 
 Add a person POST [http://localhost:8000/crud/](http://localhost:8000/crud/)
 
+data to use:
+
 {
 "email":"[exemple@ex.com](mailto:exemple@ex.com)",
 "fName":"Mouayad Mouayad",
@@ -36,9 +38,12 @@ Add a person POST [http://localhost:8000/crud/](http://localhost:8000/crud/)
 GET all persons registered.
 GET [http://localhost:8000/crud/](http://localhost:8000/crud/)
 
+data to use:
+
 {}
 
 Delete a person by email DELETE [http://localhost:8000/crud/](http://localhost:8000/crud/)
+data to use:
 {"email":"[exemple@ex.com](mailto:exemple@ex.com)"}.
 
 @ By Mouayad Mouayad.
