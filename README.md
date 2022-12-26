@@ -41,4 +41,4 @@ GET [http://localhost:8000/crud/](http://localhost:8000/crud/)
 Delete a person by email DELETE [http://localhost:8000/crud/](http://localhost:8000/crud/)
 {"email":"[exemple@ex.com](mailto:exemple@ex.com)"}.
 
-### @ By Mouayad Mouayad.
+@ By Mouayad Mouayad.
