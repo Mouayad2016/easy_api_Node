@@ -1,12 +1,22 @@
 # Node_easy_API
 
-A simple API to perform crud (add, get, delete)A new Flutter project.
+A simple API to perform crud (add, get, delete) A Nodejs project.
 
 ## Getting Started
 
-This project is a starting point for a jobb application.
+This project is a starting point for a job application and is a solution for the following request.
 
-Email validation preforms locally by isEmailValid(), in validators/v1/validation.js.
+Etimo has been commissioned to develop a REST API for a customer's personnel register. Write one so well
+solution as possible to show your technical knowledge. Make sure not to rush through
+the task without showing what you can do it in the best way. Also keep in mind that you later in
+the recruitment process must be able to explain and justify the solution you submitted.
+
+- Node js API. 
+- Framework Express.js.
+- DB in this application is a Map().
+- Protocol HTTP
+
+Note that email validation preforms locally by isEmailValid(), in validators/v1/validation.js.
 To start the app, use command:
 
 - $ nodemon app.js start.
