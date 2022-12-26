@@ -1,6 +1,6 @@
 # Node_easy_API
 
-A simple API to perform crud (add, get, delete) built withe Node.js.
+A simple REST (Representational State Transfer architecture) API built withe Node.js.
 
 ## Getting Started
 
